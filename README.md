@@ -7,6 +7,7 @@ Passionate about building **scalable backend systems**, exploring **programming 
 
 ### 👀 Interests  
 - Static analysis, compilers, programming languages
+- Distributed Systems
 - Databases and Data Processing tools
 - Machine Learning
 ---
