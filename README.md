@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samuel Moses Arnald Reuben  
 
-🚀 **Software Engineer | Researcher | Systems Enthusiast**  
+🚀 **Software Engineer | Systems Researcher**  
 Passionate about building **scalable backend systems**, exploring **programming languages & compilers**, and applying **research-driven problem solving** to real-world challenges.  
 
 ---
