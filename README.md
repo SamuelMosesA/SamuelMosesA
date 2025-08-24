@@ -18,7 +18,7 @@ Passionate about building **scalable backend systems**, exploring **programming 
 ---
 
 ### 💞️ Looking to Collaborate On  
-- Open-source projects in **systems software** or **backend infrastructure**  
+- Open-source projects in **distributed systems software** or **high performance computing**  
 - Research-driven projects in **programming languages / analysis tools**  
 - Developer tools that make engineers more productive  
 
