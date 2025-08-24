@@ -9,7 +9,6 @@ Passionate about building **scalable backend systems**, exploring **programming 
 - Static analysis, compilers, programming languages
 - Databases and Data Processing tools
 - Machine Learning
-- Applied research
 ---
 
 ### 🌱 Currently Learning  
